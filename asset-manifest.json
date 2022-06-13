@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/celo-nft-minter/static/css/main.e1ce61ea.chunk.css",
+    "main.js": "/celo-nft-minter/static/js/main.d0811c1f.chunk.js",
+    "main.js.map": "/celo-nft-minter/static/js/main.d0811c1f.chunk.js.map",
+    "runtime-main.js": "/celo-nft-minter/static/js/runtime-main.33912de6.js",
+    "runtime-main.js.map": "/celo-nft-minter/static/js/runtime-main.33912de6.js.map",
+    "static/css/2.a1a3e2b1.chunk.css": "/celo-nft-minter/static/css/2.a1a3e2b1.chunk.css",
+    "static/js/2.09a8501b.chunk.js": "/celo-nft-minter/static/js/2.09a8501b.chunk.js",
+    "static/js/2.09a8501b.chunk.js.map": "/celo-nft-minter/static/js/2.09a8501b.chunk.js.map",
+    "static/js/3.da862ae4.chunk.js": "/celo-nft-minter/static/js/3.da862ae4.chunk.js",
+    "static/js/3.da862ae4.chunk.js.map": "/celo-nft-minter/static/js/3.da862ae4.chunk.js.map",
+    "index.html": "/celo-nft-minter/index.html",
+    "static/css/2.a1a3e2b1.chunk.css.map": "/celo-nft-minter/static/css/2.a1a3e2b1.chunk.css.map",
+    "static/css/main.e1ce61ea.chunk.css.map": "/celo-nft-minter/static/css/main.e1ce61ea.chunk.css.map",
+    "static/js/2.09a8501b.chunk.js.LICENSE.txt": "/celo-nft-minter/static/js/2.09a8501b.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/celo-nft-minter/static/media/bootstrap-icons.f2539a50.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33912de6.js",
+    "static/css/2.a1a3e2b1.chunk.css",
+    "static/js/2.09a8501b.chunk.js",
+    "static/css/main.e1ce61ea.chunk.css",
+    "static/js/main.d0811c1f.chunk.js"
+  ]
+}
