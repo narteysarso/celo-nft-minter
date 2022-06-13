@@ -2,7 +2,7 @@
   "name": "celo-nft-minter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://narteysarso.github.io/${RepositoryName}",
+  "homepage": "https://narteysarso.github.io/celo-nft-minter",
   "dependencies": {
     "@celo-tools/use-contractkit": "3.0.0-beta2",
     "@celo/contractkit": "^1.5.2",
